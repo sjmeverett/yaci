@@ -1,0 +1,9 @@
+{
+  "name": "yaci",
+  "version": "0.1.0",
+  "dependencies": {
+    "yaml-runner": "^0.1.0"
+  },
+  "main": "./index.js",
+  "bin": "./bin/cli.js"
+}
