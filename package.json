@@ -2,7 +2,7 @@
   "name": "yaci",
   "version": "0.1.0",
   "dependencies": {
-    "yaml-runner": "^0.1.0"
+    "yaml-runner": "../yaml-runner"
   },
   "main": "./index.js",
   "bin": "./bin/cli.js"
